@@ -6,6 +6,6 @@ public class LastIndexOf {
 
 		String s1 = "sample of string";
 		int result = s1.lastIndexOf('s');
-	    System.out.println(result);
+		System.out.println(result);
 	}
 }
