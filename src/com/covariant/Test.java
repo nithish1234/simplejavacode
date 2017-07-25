@@ -2,7 +2,7 @@ package com.covariant;
 
 class Book {
 
-	Object read() {
+	 Integer read() {
 		System.out.println("Can't read a book");
 		return null;
 	}
