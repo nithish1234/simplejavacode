@@ -20,7 +20,7 @@ void display() {
 	System.out.println(name + roll+age);
 }	
 public static void main(String[] args) {
-	ThisKeyword obj =new ThisKeyword();
+//	ThisKeyword obj =new ThisKeyword();
 
 //	ThisKeyword obj2=new ThisKeyword("zsdsd", 11, 13);
 //	obj.display();
