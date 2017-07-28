@@ -8,7 +8,7 @@ class Book {
 	}
 }
 
-class ScientificBook extends Book {
+class ScientificBook extends Book {	
 	Integer read() {
 		System.out.println("Can read a scientific book");
 		return null;
